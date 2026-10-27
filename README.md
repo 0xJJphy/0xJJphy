@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/0xJJphy/GLI-CLI-Estimation/main/frontend/public/logo-white.png" width="140" alt="Logo" />
+<img src="logo.png" width="140" alt="Logo" />
 
 # JJ (`@0xJJphy`)
 
@@ -11,7 +11,7 @@
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Specialty-Market_Microstructure_%26_Liquidity-0969da?style=flat-square" alt="Specialty" />
+  <img src="https://img.shields.io/badge/Focus-Market_Microstructure_%26_Liquidity-0969da?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Stack-Python_|_Rust_|_Swift-181717?style=flat-square" alt="Stack" />
   <img src="https://img.shields.io/badge/OS-macOS_|_Linux-434343?style=flat-square&logo=apple&logoColor=white" alt="OS" />
 </p>
@@ -20,32 +20,32 @@
 
 ---
 
-### ⚡ Acerca de mí
+### ⚡ About Me
 
-- 🔬 **Investigación & Sistemas:** Desarrollo de modelos de estimación de liquidez global (GLI/CLI), microestructura de mercados crypto/spot y backtesters de alto rendimiento.
-- 🏗️ **Pipelines & Datos:** Scrapers institucionales (flujos de ETFs de BTC, orderbooks, métricas de balance y taker CVD).
-- 🍏 **Ingeniería de Software:** Aplicaciones de rendimiento nativo en **Rust** y **Swift (macOS)**, con interfaces en **Svelte 5** y **FastAPI**.
+- 🔬 **Research & Systems:** Designing global liquidity estimation models (GLI/CLI), crypto/spot market microstructure analytics, and high-performance backtesting engines.
+- 🏗️ **Data Pipelines:** Institutional scrapers and ingest pipelines (Bitcoin ETF flows, order book dynamics, exchange balance metrics, and taker CVD).
+- 🍏 **Native & Systems Engineering:** High-performance systems in **Rust** and **Swift (macOS)**, backed by reactive interfaces in **Svelte 5** and **FastAPI**.
 
 ---
 
 ### 🛠️ Core Tech Stack
 
-| Capa / Dominio | Tecnologías & Herramientas |
+| Domain / Layer | Technologies & Tooling |
 | :--- | :--- |
-| **Sistemas & Backend** | `Python` `Rust` `Swift` `Objective-C++` `FastAPI` |
-| **Datos Cuantitativos** | `PostgreSQL` `Polars` `Pandas` `Parquet` `Data Lineage` |
+| **Systems & Backend** | `Python` `Rust` `Swift` `Objective-C++` `FastAPI` |
+| **Quantitative & Data** | `PostgreSQL` `Polars` `Pandas` `Parquet` `Data Lineage` |
 | **Frontend & Dashboards** | `Svelte 5` `Tailwind CSS` `Lightweight Charts` `REST APIs` |
-| **Entorno & DevOps** | `macOS` `Linux` `Docker` `Git` `Zsh` |
+| **Environment & Tooling** | `macOS` `Linux` `Docker` `Git` `Zsh` |
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
       <h3>📈 <a href="https://github.com/0xJJphy/GLI-CLI-Estimation">GLI-CLI-Estimation</a></h3>
-      <p>Dashboard analítico de estimación de liquidez y régimen de mercado. Motor con FastAPI, backtester en Rust, base de datos Postgres y frontend reactivo en Svelte 5.</p>
+      <p>Global/Central Liquidity Index & market regime analytics engine. Powered by a FastAPI backend, Rust backtester, PostgreSQL store, and a reactive Svelte 5 frontend.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
@@ -55,7 +55,7 @@
     </td>
     <td width="50%">
       <h3>🍏 <a href="https://github.com/0xJJphy/vorssaint-utils">vorssaint-utils</a></h3>
-      <p>Free and open-source macOS menu bar toolkit. Herramienta nativa en Swift orientada a optimizar el flujo de trabajo y productividad en el escritorio.</p>
+      <p>Free and open-source macOS menu bar toolkit built with native Swift, engineered to streamline desktop productivity and day-to-day developer workflows.</p>
       <p>
         <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
         <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
@@ -66,7 +66,7 @@
   <tr>
     <td width="50%">
       <h3>⛏️ <a href="https://github.com/0xJJphy/BTC-ETFs-Scraper">BTC-ETFs-Scraper</a> & <a href="https://github.com/0xJJphy/alt-scraper">alt-scraper</a></h3>
-      <p>Pipelines de ingesta y scraping automatizado de datos institucionales de ETFs de Bitcoin, métricas on-chain y flujos de exchanges spot.</p>
+      <p>High-fidelity data pipelines and automated extractors tracking institutional Bitcoin ETF flows, on-chain reserves, and spot market depth.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/ETL-Pipelines-blue?style=flat-square" />
@@ -74,7 +74,7 @@
     </td>
     <td width="50%">
       <h3>📊 <a href="https://github.com/0xJJphy/BTC-SPOT-WEIGHTED">BTC-SPOT-WEIGHTED</a> & <a href="https://github.com/0xJJphy/BTC-Chart-Terminal-ST">Terminal</a></h3>
-      <p>Cuadernos de investigación y terminal interactivo para ponderación de liquidez spot, visualización táctica de order flow y dinámicas de precio.</p>
+      <p>Quantitative research environments and terminal interfaces for volume-weighted spot metrics, price impact estimation, and order flow telemetry.</p>
       <p>
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
