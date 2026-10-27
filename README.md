@@ -21,8 +21,17 @@
   <img src="https://img.shields.io/badge/Graphics-Three.js_|_Wasm_|_Svelte-434343?style=flat-square" alt="Graphics" />
 </p>
 
-<!-- Monte Carlo Stochastic Simulation Banner -->
-<img src="monte_carlo.svg" alt="Monte Carlo Simulation" width="100%" />
+<!-- 1 Row, 2 Columns: Mathematical Visuals -->
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="vol_surface.svg" alt="Implied Volatility Surface" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="monte_carlo.svg" alt="Monte Carlo Simulation" width="100%" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -107,14 +116,12 @@ I like breaking down financial markets with math and building fast, reliable sof
 
 <div align="center">
 
-  <!-- Transparent & Theme Adaptive GitHub Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=0xJJphy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=0xJJphy&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=24292f">
     <img src="https://github-readme-stats.vercel.app/api?username=0xJJphy&show_icons=true&theme=default&hide_border=true&bg_color=00000000" height="150" alt="GitHub Stats">
   </picture>
 
-  <!-- Transparent & Theme Adaptive Top Languages -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0xJJphy&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0xJJphy&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=0969da&text_color=24292f">
