@@ -21,8 +21,8 @@
   <img src="https://img.shields.io/badge/Graphics-Three.js_|_Wasm_|_Svelte-434343?style=flat-square" alt="Graphics" />
 </p>
 
-<!-- Optional: 3D Volatility Surface or Monte Carlo SVG Banner -->
-<img src="vol_surface.svg" alt="Implied Volatility Surface" width="100%" />
+<!-- Monte Carlo Stochastic Simulation Banner -->
+<img src="monte_carlo.svg" alt="Monte Carlo Simulation" width="100%" />
 
 </div>
 
@@ -32,7 +32,7 @@
 
 I like breaking down financial markets with math and building fast, reliable software around the data.
 
-- **Math & Research:** Stochastic calculus, probability, time-series analysis, volatility surfaces, and market microstructure.
+- **Math & Research:** Stochastic calculus, probability, time-series analysis, volatility modeling, and market microstructure.
 - **Systems & Code:** Writing fast, deterministic tools in **C++**, **Rust**, **Python**, and **R**.
 - **Data & Heavy SQL:** Wrangling multi-exchange order flow, market depth, and large historical time-series with **SQL** and **PostgreSQL**.
 - **Visuals & Web:** Building interactive analytics and 3D data graphics using **Three.js**, **WebAssembly**, **Svelte**, and **React**.
@@ -107,12 +107,14 @@ I like breaking down financial markets with math and building fast, reliable sof
 
 <div align="center">
 
+  <!-- Transparent & Theme Adaptive GitHub Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=0xJJphy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=0xJJphy&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=24292f">
     <img src="https://github-readme-stats.vercel.app/api?username=0xJJphy&show_icons=true&theme=default&hide_border=true&bg_color=00000000" height="150" alt="GitHub Stats">
   </picture>
 
+  <!-- Transparent & Theme Adaptive Top Languages -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0xJJphy&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0xJJphy&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=0969da&text_color=24292f">
